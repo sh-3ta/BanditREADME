@@ -1,6 +1,6 @@
 # Bandit 
 ## Bandit Level 0 → Level 1
-![level 0](banfit 0-6/Screenshot 2024-10-14 093543.png)
+![level 0]()
 
 password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
@@ -35,7 +35,7 @@ password: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 password: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 ## Bandit Level 7 → Level 8
-![level 7](banfit 0-6/Screenshot 2024-10-14 100023.png)
+![level 7](https://github.com/sh-3ta/BanditREADME/blob/main/banfit%200-6/Screenshot%202024-10-14%20100023.png)
 
-passwowrd: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
